@@ -1,2 +1,7 @@
 .DS_Store
 .ipynb_checkpoints
+*.h5
+check_point_folder/
+save_mode_folder/
+*.tgz
+flower_photos/
