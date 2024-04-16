@@ -9,3 +9,5 @@ data/
 *.zip
 *.csv
 .DS_Store
+labelme/
+.kaggle/
